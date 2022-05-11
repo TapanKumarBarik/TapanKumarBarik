@@ -22,6 +22,14 @@
 </div>
 
 ---
+<p align="center">
+<a href="https://github.com/TapanKumarBarik">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TapanKumarBarik&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/> 
+ <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TapanKumarBarik&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+</a>
+</p>
+ 
+<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=TapanKumarBarik&theme=dracula"/></p>
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
