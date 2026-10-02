@@ -1,87 +1,398 @@
 
-
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-          <div id="badges">
- <img src="https://komarev.com/ghpvc/?username=TapanKumarBarik&style=flat-square&color=blue" alt=""/>
-        </div>
-   
-</div>
-
-
-  
-  <h1>
-  hey there
-  
-  <p>Email:tapankumarbarik7@gmail.com</p>
-  
-</h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:312e81,100:7c3aed&text=TAPAN%20BARIK&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%20ENGINEER%20%7C%20GENAI%20%7C%20PYTHON%20%7C%20AZURE&descAlignY=60&descSize=18&animation=fadeIn"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2500&pause=700&color=8B5CF6&center=true&vCenter=true&width=850&lines=Building+AI+systems+that+actually+ship.;LLMs+%7C+RAG+%7C+Agents+%7C+Azure+AI;Python+%7C+FastAPI+%7C+Cloud+%7C+System+Design;Turning+ideas+into+production+systems+%F0%9F%9A%80" />
+
+<br><br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-TapanKumarBarik-0d1117?style=for-the-badge&logo=github)](https://github.com/TapanKumarBarik)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/tapan-barik-7b896a171/)
+[![Email](https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:tapankumarbarik7@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=TapanKumarBarik&style=for-the-badge&color=7c3aed)](https://github.com/TapanKumarBarik)
+
 </div>
 
 ---
-<p align="center">
-<a href="https://github.com/TapanKumarBarik">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TapanKumarBarik&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/> 
- <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TapanKumarBarik&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
-</a>
-</p>
- 
-<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=TapanKumarBarik&theme=dracula"/></p>
 
-### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+# `01` // SYSTEM ONLINE
 
-- :zap: In my free time, I solve problems on LeetCode and read tech articles.
-- :zap: I am a certified microsoft Azure developer, Azure Admin .
+```text
+┌──────────────────────────────────────────────────────────────────────┐
+│                         AI ENGINEERING TERMINAL                      │
+├──────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  USER        : TAPAN BARIK                                           │
+│  ROLE        : AI ENGINEER / GENERATIVE AI DEVELOPER                 │
+│  MODE        : BUILDING                                              │
+│  PRIMARY     : PYTHON                                                │
+│  CLOUD       : MICROSOFT AZURE                                       │
+│                                                                      │
+│  SPECIALITY  : LLMs • RAG • AI AGENTS • SEARCH • BACKEND             │
+│                                                                      │
+│  STATUS      : ████████████████████████████████████  ONLINE          │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+I build intelligent systems where AI meets software engineering.
+From LLM-powered applications and RAG pipelines to backend services and
+cloud infrastructure, I enjoy taking systems from idea → architecture → production.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tapan-barik-7b896a171/)
+```
 
----
+# `02` // ARCHITECTURE
 
-### :hammer_and_wrench: Languages and Tools :
+```text
+                         ┌─────────────────────┐
+                         │       USER          │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │     AI APPLICATION  │
+                         └──────────┬──────────┘
+                                    │
+                    ┌───────────────┼───────────────┐
+                    ▼               ▼               ▼
+               ┌─────────┐    ┌──────────┐    ┌──────────┐
+               │   RAG   │    │  AGENTS  │    │ SEARCH   │
+               └────┬────┘    └─────┬────┘    └────┬─────┘
+                    │               │              │
+                    └───────────────┼──────────────┘
+                                    ▼
+                         ┌─────────────────────┐
+                         │       LLM           │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │    PYTHON / API     │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │      AZURE          │
+                         └─────────────────────┘
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUtHnj0qgd3QvIK_8wnplyAowzJtsQqq-Cig&usqp=CAU" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+```
+
+# `03` // AI STACK
+
+**🧠 GENERATIVE AI & ☁️ CLOUD**
 
 
----
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TapanKumarBarik&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TapanKumarBarik&layout=compact&theme=vision-friendly-dark)](https://github.com/TapanKumarBarik/github-readme-stats)
 
 
-<!--
-**TapanKumarBarik/TapanKumarBarik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**🐍 BACKEND**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+**🗄️ DATA**
+
+
+
+
+
+
+
+**🧰 ENGINEERING**
+
+
+
+
+
+
+
+# `04` // WHAT I BUILD
+
+```text
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   🤖  GENERATIVE AI                                              ║
+║       Enterprise LLM applications                                ║
+║                                                                  ║
+║   🔎  RETRIEVAL AUGMENTED GENERATION                             ║
+║       Search → Retrieve → Rerank → Generate                      ║
+║                                                                  ║
+║   🧠  AGENTIC SYSTEMS                                            ║
+║       Tools → State → Reasoning → Actions                        ║
+║                                                                  ║
+║   ⚡  PYTHON BACKENDS                                            ║
+║       FastAPI → APIs → Services → Production                     ║
+║                                                                  ║
+║   ☁️  AZURE AI                                                   ║
+║       OpenAI → AI Search → APIM → Functions                      ║
+║                                                                  ║
+║   🏗️️  SYSTEM DESIGN                                              ║
+║       Scalable architectures → HLD → LLD                         ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+
+```
+
+# `05` // RAG ENGINE
+
+```text
+       ┌──────────────┐
+       │   DOCUMENTS  │
+       └──────┬───────┘
+              │
+              ▼
+       ┌──────────────┐
+       │  INGESTION   │
+       └──────┬───────┘
+              │
+              ▼
+       ┌──────────────┐
+       │   CHUNKING   │
+       └──────┬───────┘
+              │
+              ▼
+       ┌──────────────┐
+       │  EMBEDDINGS  │
+       └──────┬───────┘
+              │
+              ▼
+       ┌──────────────┐
+       │ VECTOR INDEX │
+       └──────┬───────┘
+              │
+              ▼
+       ┌──────────────┐
+       │   RETRIEVE   │
+       └──────┬───────┘
+              │
+              ▼
+       ┌──────────────┐
+       │   RERANK     │
+       └──────┬───────┘
+              │
+              ▼
+       ┌──────────────┐
+       │     LLM      │
+       └──────┬───────┘
+              │
+              ▼
+       ┌──────────────┐
+       │    ANSWER    │
+       └──────────────┘
+
+```
+
+# `06` // CURRENT MISSION
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                        CURRENT QUEST                         │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  [████████████████████]  Generative AI                       │
+│  [████████████████████]  Python                              │
+│  [████████████████████]  Azure AI                            │
+│  [███████████████████░]  RAG                                 │
+│  [██████████████████░░]  Agentic AI                          │
+│  [█████████████████░░░]  AI Infrastructure                   │
+│  [████████████████░░░░]  System Design                       │
+│  [███████████████░░░░░]  Low Level Design                    │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+
+```
+
+# `07` // GITHUB TELEMETRY
+
+# `08` // CONTRIBUTION MATRIX
+
+# `09` // ENGINEERING PHILOSOPHY
+
+```text
+                    ┌───────────────┐
+                    │   PROBLEM     │
+                    └───────┬───────┘
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │   UNDERSTAND  │
+                    └───────┬───────┘
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │   DESIGN      │
+                    └───────┬───────┘
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │    BUILD      │
+                    └───────┬───────┘
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │    TEST       │
+                    └───────┬───────┘
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │    SHIP       │
+                    └───────┬───────┘
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │    LEARN      │
+                    └───────┬───────┘
+                            │
+                            └──────────────► 🔁
+
+```
+
+# `10` // DEBUG MODE
+
+```python
+class Engineer:
+
+    def __init__(self):
+        self.status = "BUILDING"
+        self.coffee = True
+        self.bugs = float("inf")
+
+    def solve(self, problem):
+
+        while problem.exists():
+
+            understand(problem)
+            design(problem)
+            build(problem)
+            test(problem)
+
+            if not working():
+                debug()
+
+        deploy()
+
+        return "PRODUCTION 🚀"
+
+```
+
+# `11` // AI PIPELINE
+
+```text
+                     HUMAN
+                       │
+                       ▼
+                  ┌─────────┐
+                  │  QUERY  │
+                  └────┬────┘
+                       │
+                       ▼
+              ┌─────────────────┐
+              │   AI GATEWAY    │
+              └────────┬────────┘
+                       │
+          ┌────────────┼────────────┐
+          ▼            ▼            ▼
+       ┌──────┐     ┌──────┐     ┌──────┐
+       │ RAG  │     │AGENT │     │ LLM  │
+       └──┬───┘     └──┬───┘     └──┬───┘
+          │            │            │
+          └────────────┼────────────┘
+                       ▼
+                ┌──────────────┐
+                │ OBSERVABILITY│
+                └──────┬───────┘
+                       │
+                       ▼
+                    RESPONSE
+
+```
+
+# `12` // LEARNING LOOP
+
+```text
+             ┌───────────────┐
+             │    LEARN      │
+             └───────┬───────┘
+                     ▼
+             ┌───────────────┐
+             │    BUILD      │
+             └───────┬───────┘
+                     ▼
+             ┌───────────────┐
+             │    BREAK      │
+             └───────┬───────┘
+                     ▼
+             ┌───────────────┐
+             │    DEBUG      │
+             └───────┬───────┘
+                     ▼
+             ┌───────────────┐
+             │    IMPROVE    │
+             └───────┬───────┘
+                     │
+                     └──────────────► LEARN
+
+```
+
+# `13` // TERMINAL
+
+```bash
+$ whoami
+Tapan Barik
+
+$ focus
+Generative AI
+Python
+Azure
+LLMs
+RAG
+AI Agents
+Backend Engineering
+System Design
+
+$ mission
+Build useful things.
+Make them scalable.
+Ship them.
+Learn from them.
+Repeat.
+
+$ status
+ONLINE █████████████████████████████████████████
+
+```
+
+# `14` // CONNECT
+
+Have an interesting problem? Let's build it.
+
+
+
+
+
+```text
+╔══════════════════════════════════════════════╗
+║                                              ║
+║       BUILD  •  BREAK  •  LEARN  •  SHIP     ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+
+```
+
+
+
+
+
+**SYSTEM STATUS: OPERATIONAL**
+
+
+
+
+*Thanks for visiting.*
+
+
+
